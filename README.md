@@ -11,5 +11,3 @@ Requirements
       threading https://pypi.org/project/threaded/
       
       tkinter https://pypi.org/project/tkintertable/
-
-The code file can be found in Master branch
