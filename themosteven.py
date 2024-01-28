@@ -9,7 +9,7 @@ class themosteven:
         self.master.title("The most even number")
         self.master.geometry("400x200")
 
-        self.label = tk.Label(self.master, text="What is the number from 0 to a 100\n that can be divided by 2 the most times?")
+        self.label = tk.Label(self.master, text="What is the number from 0 to a 100\n that can be divided by 2 the most times?\n *Note: consider only results with integers")
         self.label.pack(pady=10)
 
         self.entry = tk.Entry(self.master)
